@@ -1,6 +1,6 @@
-#DECEN Conceptual Model (A prototype!)
+# DECEN Conceptual Model (A prototype!)
 
-##Aim of the developed smart contract
+## Aim of the developed smart contract
 
 This project uploaded to Github aims to test the practical applicability of a developed prototype of the DECEN conceptual model. 
 
@@ -8,11 +8,11 @@ Details regarding the developed smart contract can be accessed from OsmanSelvi84
 
 The file also contains samples for interaction with the smart contract via the CLI.
 
-##Limitations of smart contracts
+## Limitations of smart contracts
 
 This is a prototype and has limitations or aspects that need improvement. Some of them are as follows:
 - There is no access control mechanism.
 - Because it was designed to return a limited number of records, it was not developed to manage many records with pagination and other features.
 
-##Contact
+## Contact
 For further information, email: osmanselvi84@gmail.com
